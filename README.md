@@ -45,7 +45,19 @@ Current development stage:
 
 ## Project Images
 
-(Add PCB renders and screenshots here)
+## Project Images
+
+<p align="center">
+  <img src="Renders/EurocAvaFULLcustom.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Renders/EurocAvaFULLcustom2.png" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Renders/EurocAvaFULLcustom3.png" width="400"/>
+</p>
 
 ---
 
