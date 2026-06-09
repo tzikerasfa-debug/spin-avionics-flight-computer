@@ -1,4 +1,3 @@
-# spin-avionics-flight-computer
 # SPIN Avionics Flight Computer
 
 Competition-level STM32H7-based rocket flight computer currently under development for aerospace and embedded systems applications.
@@ -60,10 +59,11 @@ Current development stage:
 </p>
 
 ---
-
 ## Sponsors
 
-Special thanks to PCBWay for supporting PCB manufacturing and prototyping for this project.
+This project is proudly supported by PCBWay through PCB manufacturing and prototyping sponsorship.
+
+🌐 PCBWay Website: [https://www.pcbway.com/](https://www.pcbway.com/)
 
 ---
 
