@@ -74,14 +74,25 @@ Current development stage:
 
 ---
 
-## Repository Structure
+## Sponsors
 
-/Hardware → KiCad files  
-/Renders → PCB renders and screenshots  
-/Documentation → Project documentation
+### PCBWay
+
+This project is proudly supported by **PCBWay** through PCB manufacturing and prototyping sponsorship.
+
+PCBWay provided the manufacturing support that made it possible to turn the flight computer design into a real, professionally manufactured PCB.
+
+Without PCBWay's support, this stage of the project would not have been possible. Their contribution has played a major role in helping us bring the SPIN Avionics Flight Computer from a digital design to a real piece of aerospace hardware.
+
+**A sincere thank you to the entire PCBWay team for supporting student engineering and making projects like this possible.**
+
+🌐 **PCBWay:** [https://www.pcbway.com/](https://www.pcbway.com/)
 
 ---
 
-## Disclaimer
+## Repository Structure
 
-This repository is currently under active development and may change significantly over time.
+```text
+/Hardware       → KiCad files
+/Renders        → PCB renders and photographs
+/Documentation  → Project documentation
