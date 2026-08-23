@@ -44,8 +44,6 @@ Current development stage:
 
 ## Project Images
 
-## Project Images
-
 <p align="center">
   <img src="Renders/EurocAvaFULLcustom.png" width="400"/>
 </p>
@@ -58,12 +56,21 @@ Current development stage:
   <img src="Renders/EurocAvaFULLcustom3.png" width="400"/>
 </p>
 
----
-## Sponsors
+<p align="center">
+  <img src="Renders/1000006479.jpg" width="400"/>
+</p>
 
-This project is proudly supported by PCBWay through PCB manufacturing and prototyping sponsorship.
+<p align="center">
+  <img src="Renders/1000006480.jpg" width="400"/>
+</p>
 
-🌐 PCBWay Website: [https://www.pcbway.com/](https://www.pcbway.com/)
+<p align="center">
+  <img src="Renders/1000006481.jpg" width="400"/>
+</p>
+
+<p align="center">
+  <img src="Renders/1000006482.jpg" width="400"/>
+</p>
 
 ---
 
